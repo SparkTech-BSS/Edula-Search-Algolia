@@ -37,7 +37,7 @@ function App() {
             </nav>
             <Autocomplete
               searchClient={searchClient}
-              placeholder="Search products"
+              placeholder="Procurar curso"
               detachedMediaQuery="none"
               openOnFocus
             />

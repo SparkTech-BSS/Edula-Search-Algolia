@@ -25,6 +25,7 @@ export function Hit({ hit }: HitProps) {
           By <strong>{hit.brand}</strong> in{' '}
           <strong>{hit.categories[0]}</strong>
         </div>
+        <h1>Edula para todos</h1>
       </div>
     </article>
   );
